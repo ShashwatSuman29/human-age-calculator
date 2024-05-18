@@ -60,6 +60,10 @@
   border-radius: 5px;
 }
 
+.input-box button:hover{
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 1);
+}
+
 .input-box input::-webkit-calendar-picker-indicator {
   top: 0;
   left: 0;
